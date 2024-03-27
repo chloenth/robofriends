@@ -13,12 +13,11 @@ Meet your Robofriends! This React app showcases a collection of adorable Robofri
 
 ### Built With
 
-- [![React][React.js]](https://react.dev/)
-- [![Tachyons][Tachyons.io]](https://tachyons.io/)
+- [![React][React.js]][React-url]
+
+- [![Tachyons][Tachyons.io]][Tachyons-url]
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API at [JSONPlaceholder](https://jsonplaceholder.cypress.io)
 2. Clone the repo
@@ -45,10 +44,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 - [Sega Font](https://www.dafont.com/sega.font)
 - [Fake REST API - JSONPLaceholder](https://jsonplaceholder.cypress.io/users)
 - [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages)
 
 [Meet your Robofriends!](https://huongnguyen1709.github.io/robofriends/)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://react.dev/
+[Tachyons.io]: https://img.shields.io/badge/Tachyons-8A2BE2
+[Tachyons-url]: https://tachyons.io/
