@@ -56,5 +56,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
-[Tachyons.io]: https://img.shields.io/badge/Tachyons-8A2BE2
+[Tachyons.io]: https://img.shields.io/badge/Tachyons?style=for-the-badge&color=20232A
 [Tachyons-url]: https://tachyons.io/
