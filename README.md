@@ -48,6 +48,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - [Sega Font](https://www.dafont.com/sega.font)
 - [Fake REST API - JSONPLaceholder](https://jsonplaceholder.cypress.io/users)
+- [How to avoid breaking your react app in production](https://www.freecodecamp.org/news/how-to-avoid-breaking-your-react-app-in-production/)
 - [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages)
 
 <!-- MARKDOWN LINKS & IMAGES -->
